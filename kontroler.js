@@ -12,6 +12,7 @@ module.exports=http.createServer(
             +reqUrl.pathname);
             service.sampleRequest(req,res);
         }
+        
         //POST REQUEST
         else if (reqUrl.pathname == '/test' && req.method === 'POST') {
             console.log('Request Type:' +
