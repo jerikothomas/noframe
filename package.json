@@ -1,0 +1,22 @@
+{
+  "name": "noframe",
+  "version": "1.0.0",
+  "description": "Creating Node JS apps without frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerikothomas/profile.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Thomas Jeriko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerikothomas/profile/issues"
+  },
+  "homepage": "https://github.com/jerikothomas/profile#readme"
+}
